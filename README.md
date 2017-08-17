@@ -1,6 +1,10 @@
 # bucket-list-app-api
 
-[![Build Status](https://travis-ci.org/mkiterian/viserys.svg?branch=tasks)](https://travis-ci.org/mkiterian/viserys)
+[![Build Status](https://travis-ci.org/mkiterian/viserys.svg?branch=master)](https://travis-ci.org/mkiterian/viserys)
+
+[![Coverage Status](https://coveralls.io/repos/github/mkiterian/viserys/badge.svg?branch=master)](https://coveralls.io/github/mkiterian/viserys?branch=master)
+
+[![Code Climate](https://codeclimate.com/github/mkiterian/viserys/badges/gpa.svg)](https://codeclimate.com/github/mkiterian/viserys)
 
 # Bucketlist API
 This repo contains a bucketlist API using flask. The API enables users to register, login and access bucketlist and bucketlist item resources. The user can create, update, delete and retrieve bucketlists and bucketlist items.
