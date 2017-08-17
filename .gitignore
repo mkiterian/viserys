@@ -1,0 +1,5 @@
+__pycache__
+.cache
+.coverage
+.DS_Store
+app/__init__.pyc
